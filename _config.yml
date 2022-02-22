@@ -56,3 +56,5 @@ sphinx:
     html_show_copyright: false
 
 
+
+theme: jekyll-theme-cayman
